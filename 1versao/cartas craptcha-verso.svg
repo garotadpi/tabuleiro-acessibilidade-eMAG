@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel r9824"
+   sodipodi:docname="cartas craptcha-verso.pdf">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6000"
+       id="pattern7344"
+       patternTransform="matrix(9.8856454,0,0,9.9344209,-260.31674,466.81246)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboardwhite"
+       id="pattern6000"
+       patternTransform="matrix(9.8687875,0,0,9.9513913,182.07114,0.24166863)" />
+    <pattern
+       inkscape:stockid="Checkerboard white"
+       id="Checkerboardwhite"
+       patternTransform="matrix(9.8687875,0,0,9.9513913,1.7859569,0.22479511)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4644"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:white;stroke:none" />
+      <rect
+         id="rect4646"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:white;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3682454"
+     inkscape:cx="537.17365"
+     inkscape:cy="371.55419"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7489"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="1.3189551,1002.4059"
+       id="guide3071" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       transform="matrix(0.99455022,0,0,0.99285418,-180.26713,0.5940722)"
+       id="g5976">
+      <g
+         id="g6721"
+         transform="matrix(0,1.0017082,-0.99829467,0,848.00038,-147.27628)">
+        <g
+           transform="translate(-10.782944,2.0143945)"
+           id="g6014" />
+        <g
+           transform="translate(524.33168,573.50924)"
+           id="g6393" />
+      </g>
+      <g
+         id="g7489"
+         transform="matrix(0,1.0017082,-0.99829467,0,1188.0835,170.72941)">
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,465.4161,441.20428)"
+           id="g5918">
+          <g
+             id="g5886"
+             transform="translate(180.99595,0.01687532)">
+            <rect
+               style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+               id="rect5888"
+               width="174.36351"
+               height="281.75473"
+               x="30.935461"
+               y="49.717484" />
+            <rect
+               style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect5890"
+               width="173.72878"
+               height="280.96545"
+               x="31.620699"
+               y="49.700607"
+               inkscape:transform-center-x="-105.07845"
+               inkscape:transform-center-y="21.191595" />
+            <path
+               style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+               id="path5892"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+               id="path5894"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+               id="path5896"
+               inkscape:connector-curvature="0" />
+            <text
+               xml:space="preserve"
+               style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+               x="-88.76339"
+               y="232.37418"
+               id="text5898"
+               sodipodi:linespacing="140%"
+               transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+                 sodipodi:role="line"
+                 id="tspan5900"
+                 x="-88.76339"
+                 y="232.37418"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Crapctha</tspan></text>
+          </g>
+        </g>
+        <rect
+           transform="matrix(0,-1.0017082,0.99829467,0,845.98942,-158.07765)"
+           style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+           id="rect5980"
+           width="174.36351"
+           height="281.75473"
+           x="-386.29492"
+           y="-331.48911" />
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 387.23235,232.58936 211.93141,294.929 387.70107,173.53075 211.46269,279.92999"
+           id="path5988"
+           inkscape:connector-curvature="0"
+           transform="matrix(0,1.0017082,-0.99829467,0,845.98942,-158.07765)" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 387.23235,212.43444 213.33756,306.17826 386.76363,146.81374 211.93141,90.567469 386.29491,63.850479"
+           id="path5986"
+           inkscape:connector-curvature="0"
+           transform="matrix(0,1.0017082,-0.99829467,0,845.98942,-158.07765)" />
+        <rect
+           transform="matrix(0,-1,1,0,0,0)"
+           style="opacity:0.35344831;fill:url(#pattern7344);fill-opacity:1;stroke:none"
+           id="rect5982"
+           width="174.02554"
+           height="280.48633"
+           x="-230.43108"
+           y="516.20386"
+           inkscape:transform-center-x="105.07848"
+           inkscape:transform-center-y="-21.191562" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 386.76363,187.59233 -173.42607,54.84013 172.01991,-75.93249 -96.08741,-4.68719 28.59186,-37.02881 -105.93051,68.43299"
+           id="path5984"
+           inkscape:connector-curvature="0"
+           transform="matrix(0,1.0017082,-0.99829467,0,845.98942,-158.07765)" />
+        <text
+           xml:space="preserve"
+           style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+           x="-239.55104"
+           y="-315.88345"
+           id="text5990"
+           sodipodi:linespacing="140%"
+           transform="matrix(-0.63176686,-0.76036754,0.83999863,-0.57187594,845.98942,-158.07765)"><tspan
+             sodipodi:role="line"
+             id="tspan5992"
+             x="-239.55104"
+             y="-315.88345"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Craptcha</tspan></text>
+        <rect
+           transform="matrix(0,-1.0017082,0.99829467,0,845.98942,-158.07765)"
+           y="-331.48911"
+           x="-386.29492"
+           height="281.75473"
+           width="174.36351"
+           id="rect6003"
+           style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,465.41609,619.88051)"
+           id="g6033">
+          <g
+             id="g6035">
+            <g
+               transform="translate(180.99595,0.01687532)"
+               id="g6037">
+              <rect
+                 y="49.717484"
+                 x="30.935461"
+                 height="281.75473"
+                 width="174.36351"
+                 id="rect6039"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+              <rect
+                 inkscape:transform-center-y="21.191595"
+                 inkscape:transform-center-x="-105.07845"
+                 y="49.700607"
+                 x="31.620699"
+                 height="280.96545"
+                 width="173.72878"
+                 id="rect6041"
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6043"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6045"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6047"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <text
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+                 sodipodi:linespacing="140%"
+                 id="text6049"
+                 y="232.37418"
+                 x="-88.76339"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+                   y="232.37418"
+                   x="-88.76339"
+                   id="tspan6051"
+                   sodipodi:role="line">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6053"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6055"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6057"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             inkscape:transform-center-y="21.191595"
+             inkscape:transform-center-x="-105.07845"
+             y="49.717484"
+             x="211.90588"
+             height="280.96545"
+             width="173.72878"
+             id="rect6059"
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6061"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+             sodipodi:linespacing="140%"
+             id="text6063"
+             y="352.71747"
+             x="44.633614"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+               y="352.71747"
+               x="44.633614"
+               id="tspan6065"
+               sodipodi:role="line">Craptcha</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6067"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+        </g>
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,465.17598,798.55676)"
+           id="g6069">
+          <g
+             id="g6071">
+            <g
+               transform="translate(180.99595,0.01687532)"
+               id="g6073">
+              <rect
+                 y="49.717484"
+                 x="30.935461"
+                 height="281.75473"
+                 width="174.36351"
+                 id="rect6075"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+              <rect
+                 inkscape:transform-center-y="21.191595"
+                 inkscape:transform-center-x="-105.07845"
+                 y="49.700607"
+                 x="31.620699"
+                 height="280.96545"
+                 width="173.72878"
+                 id="rect6077"
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6079"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6081"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6083"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <text
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+                 sodipodi:linespacing="140%"
+                 id="text6085"
+                 y="232.37418"
+                 x="-88.76339"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+                   y="232.37418"
+                   x="-88.76339"
+                   id="tspan6087"
+                   sodipodi:role="line">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6089"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6091"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6093"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             inkscape:transform-center-y="21.191595"
+             inkscape:transform-center-x="-105.07845"
+             y="49.717484"
+             x="211.90588"
+             height="280.96545"
+             width="173.72878"
+             id="rect6095"
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6097"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+             sodipodi:linespacing="140%"
+             id="text6099"
+             y="352.71747"
+             x="44.633614"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+               y="352.71747"
+               x="44.633614"
+               id="tspan6101"
+               sodipodi:role="line">Craptcha</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6103"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+        </g>
+        <g
+           id="g6105"
+           transform="matrix(0,-1.0017082,0.99829467,0,465.17598,977.23303)">
+          <g
+             id="g6107">
+            <g
+               id="g6109"
+               transform="translate(180.99595,0.01687532)">
+              <rect
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+                 id="rect6111"
+                 width="174.36351"
+                 height="281.75473"
+                 x="30.935461"
+                 y="49.717484" />
+              <rect
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect6113"
+                 width="173.72878"
+                 height="280.96545"
+                 x="31.620699"
+                 y="49.700607"
+                 inkscape:transform-center-x="-105.07845"
+                 inkscape:transform-center-y="21.191595" />
+              <path
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 id="path6115"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 id="path6117"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 id="path6119"
+                 inkscape:connector-curvature="0" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 x="-88.76339"
+                 y="232.37418"
+                 id="text6121"
+                 sodipodi:linespacing="140%"
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+                   sodipodi:role="line"
+                   id="tspan6123"
+                   x="-88.76339"
+                   y="232.37418"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6125"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             id="path6127"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             id="path6129"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none"
+             id="rect6131"
+             width="173.72878"
+             height="280.96545"
+             x="211.90588"
+             y="49.717484"
+             inkscape:transform-center-x="-105.07845"
+             inkscape:transform-center-y="21.191595" />
+          <path
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             id="path6133"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             x="44.633614"
+             y="352.71747"
+             id="text6135"
+             sodipodi:linespacing="140%"
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan6137"
+               x="44.633614"
+               y="352.71747"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Craptcha</tspan></text>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6139"
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+        </g>
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,180.26517,441.20427)"
+           id="g6141">
+          <g
+             id="g6143">
+            <g
+               transform="translate(180.99595,0.01687532)"
+               id="g6145">
+              <rect
+                 y="49.717484"
+                 x="30.935461"
+                 height="281.75473"
+                 width="174.36351"
+                 id="rect6147"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+              <rect
+                 inkscape:transform-center-y="21.191595"
+                 inkscape:transform-center-x="-105.07845"
+                 y="49.700607"
+                 x="31.620699"
+                 height="280.96545"
+                 width="173.72878"
+                 id="rect6149"
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6151"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6153"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6155"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <text
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+                 sodipodi:linespacing="140%"
+                 id="text6157"
+                 y="232.37418"
+                 x="-88.76339"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+                   y="232.37418"
+                   x="-88.76339"
+                   id="tspan6159"
+                   sodipodi:role="line">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6161"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6163"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6165"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             inkscape:transform-center-y="21.191595"
+             inkscape:transform-center-x="-105.07845"
+             y="49.717484"
+             x="211.90588"
+             height="280.96545"
+             width="173.72878"
+             id="rect6167"
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6169"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+             sodipodi:linespacing="140%"
+             id="text6171"
+             y="352.71747"
+             x="44.633614"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+               y="352.71747"
+               x="44.633614"
+               id="tspan6173"
+               sodipodi:role="line">Craptcha</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6175"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+        </g>
+        <g
+           id="g6177"
+           transform="matrix(0,-1.0017082,0.99829467,0,180.26517,619.88051)">
+          <g
+             id="g6179">
+            <g
+               id="g6181"
+               transform="translate(180.99595,0.01687532)">
+              <rect
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+                 id="rect6183"
+                 width="174.36351"
+                 height="281.75473"
+                 x="30.935461"
+                 y="49.717484" />
+              <rect
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect6185"
+                 width="173.72878"
+                 height="280.96545"
+                 x="31.620699"
+                 y="49.700607"
+                 inkscape:transform-center-x="-105.07845"
+                 inkscape:transform-center-y="21.191595" />
+              <path
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 id="path6187"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 id="path6189"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 id="path6191"
+                 inkscape:connector-curvature="0" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 x="-88.76339"
+                 y="232.37418"
+                 id="text6193"
+                 sodipodi:linespacing="140%"
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+                   sodipodi:role="line"
+                   id="tspan6195"
+                   x="-88.76339"
+                   y="232.37418"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6197"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             id="path6199"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             id="path6201"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none"
+             id="rect6203"
+             width="173.72878"
+             height="280.96545"
+             x="211.90588"
+             y="49.717484"
+             inkscape:transform-center-x="-105.07845"
+             inkscape:transform-center-y="21.191595" />
+          <path
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             id="path6205"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             x="44.633614"
+             y="352.71747"
+             id="text6207"
+             sodipodi:linespacing="140%"
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan6209"
+               x="44.633614"
+               y="352.71747"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Craptcha</tspan></text>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6211"
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+        </g>
+        <g
+           id="g6213"
+           transform="matrix(0,-1.0017082,0.99829467,0,180.02507,798.55676)">
+          <g
+             id="g6215">
+            <g
+               id="g6217"
+               transform="translate(180.99595,0.01687532)">
+              <rect
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+                 id="rect6219"
+                 width="174.36351"
+                 height="281.75473"
+                 x="30.935461"
+                 y="49.717484" />
+              <rect
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect6221"
+                 width="173.72878"
+                 height="280.96545"
+                 x="31.620699"
+                 y="49.700607"
+                 inkscape:transform-center-x="-105.07845"
+                 inkscape:transform-center-y="21.191595" />
+              <path
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 id="path6223"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 id="path6225"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 id="path6227"
+                 inkscape:connector-curvature="0" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 x="-88.76339"
+                 y="232.37418"
+                 id="text6229"
+                 sodipodi:linespacing="140%"
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+                   sodipodi:role="line"
+                   id="tspan6231"
+                   x="-88.76339"
+                   y="232.37418"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6233"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             id="path6235"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             id="path6237"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none"
+             id="rect6239"
+             width="173.72878"
+             height="280.96545"
+             x="211.90588"
+             y="49.717484"
+             inkscape:transform-center-x="-105.07845"
+             inkscape:transform-center-y="21.191595" />
+          <path
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             id="path6241"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             x="44.633614"
+             y="352.71747"
+             id="text6243"
+             sodipodi:linespacing="140%"
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan6245"
+               x="44.633614"
+               y="352.71747"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Craptcha</tspan></text>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6247"
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+        </g>
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,180.02507,977.23303)"
+           id="g6249">
+          <g
+             id="g6251">
+            <g
+               transform="translate(180.99595,0.01687532)"
+               id="g6253">
+              <rect
+                 y="49.717484"
+                 x="30.935461"
+                 height="281.75473"
+                 width="174.36351"
+                 id="rect6255"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+              <rect
+                 inkscape:transform-center-y="21.191595"
+                 inkscape:transform-center-x="-105.07845"
+                 y="49.700607"
+                 x="31.620699"
+                 height="280.96545"
+                 width="173.72878"
+                 id="rect6257"
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6259"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6261"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6263"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <text
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+                 sodipodi:linespacing="140%"
+                 id="text6265"
+                 y="232.37418"
+                 x="-88.76339"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+                   y="232.37418"
+                   x="-88.76339"
+                   id="tspan6267"
+                   sodipodi:role="line">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6269"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6271"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6273"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             inkscape:transform-center-y="21.191595"
+             inkscape:transform-center-x="-105.07845"
+             y="49.717484"
+             x="211.90588"
+             height="280.96545"
+             width="173.72878"
+             id="rect6275"
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6277"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+             sodipodi:linespacing="140%"
+             id="text6279"
+             y="352.71747"
+             x="44.633614"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+               y="352.71747"
+               x="44.633614"
+               id="tspan6281"
+               sodipodi:role="line">Craptcha</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6283"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+        </g>
+        <g
+           id="g6870"
+           transform="matrix(0,-1.0017082,0.99829467,0,465.41612,1156.0754)">
+          <g
+             id="g6872">
+            <g
+               id="g6874"
+               transform="translate(180.99595,0.01687532)">
+              <rect
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+                 id="rect6876"
+                 width="174.36351"
+                 height="281.75473"
+                 x="30.935461"
+                 y="49.717484" />
+              <rect
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect6878"
+                 width="173.72878"
+                 height="280.96545"
+                 x="31.620699"
+                 y="49.700607"
+                 inkscape:transform-center-x="-105.07845"
+                 inkscape:transform-center-y="21.191595" />
+              <path
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 id="path6880"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 id="path6882"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 id="path6884"
+                 inkscape:connector-curvature="0" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 x="-88.76339"
+                 y="232.37418"
+                 id="text6886"
+                 sodipodi:linespacing="140%"
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+                   sodipodi:role="line"
+                   id="tspan6888"
+                   x="-88.76339"
+                   y="232.37418"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect6890"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+          <path
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             id="path6892"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             id="path6894"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none"
+             id="rect6896"
+             width="173.72878"
+             height="280.96545"
+             x="211.90588"
+             y="49.717484"
+             inkscape:transform-center-x="-105.07845"
+             inkscape:transform-center-y="21.191595" />
+          <path
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             id="path6898"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             x="44.633614"
+             y="352.71747"
+             id="text6900"
+             sodipodi:linespacing="140%"
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan6902"
+               x="44.633614"
+               y="352.71747"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts">Craptcha</tspan></text>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect6904"
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+        </g>
+        <g
+           transform="matrix(0,-1.0017082,0.99829467,0,180.2652,1156.0754)"
+           id="g7014">
+          <g
+             id="g7016">
+            <g
+               transform="translate(180.99595,0.01687532)"
+               id="g7018">
+              <rect
+                 y="49.717484"
+                 x="30.935461"
+                 height="281.75473"
+                 width="174.36351"
+                 id="rect7020"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+              <rect
+                 inkscape:transform-center-y="21.191595"
+                 inkscape:transform-center-x="-105.07845"
+                 y="49.700607"
+                 x="31.620699"
+                 height="280.96545"
+                 width="173.72878"
+                 id="rect7022"
+                 style="opacity:0.35344831;fill:url(#Checkerboardwhite);fill-opacity:1;stroke:#000000;stroke-width:3.71625113;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7024"
+                 d="M 30.935461,179.60722 204.36153,124.76709 32.341618,200.69958 128.42903,205.38677 99.837168,242.41558 205.76768,173.98259"
+                 style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7026"
+                 d="M 30.935461,157.57742 204.83025,63.833604 31.40418,223.1981 206.2364,279.44439 31.872899,306.16138"
+                 style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path7028"
+                 d="M 30.935461,235.85351 206.2364,173.51387 30.466741,294.91212 206.70512,188.51288"
+                 style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <text
+                 transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+                 sodipodi:linespacing="140%"
+                 id="text7030"
+                 y="232.37418"
+                 x="-88.76339"
+                 style="font-size:39.18783951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+                   y="232.37418"
+                   x="-88.76339"
+                   id="tspan7032"
+                   sodipodi:role="line">Crapctha</tspan></text>
+            </g>
+          </g>
+          <rect
+             y="49.73436"
+             x="211.93141"
+             height="281.75473"
+             width="174.36351"
+             id="rect7034"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7036"
+             d="M 211.93141,235.87039 387.23235,173.53075 211.46269,294.929 387.70107,188.52976"
+             style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7038"
+             d="M 211.93141,157.5943 385.8262,63.850479 212.40013,223.21498 l 174.83222,56.24629 -174.3635,26.71699"
+             style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             inkscape:transform-center-y="21.191595"
+             inkscape:transform-center-x="-105.07845"
+             y="49.717484"
+             x="211.90588"
+             height="280.96545"
+             width="173.72878"
+             id="rect7040"
+             style="opacity:0.35344831;fill:url(#pattern6000);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7042"
+             d="m 211.93141,179.6241 173.42607,-54.84013 -172.01991,75.93249 96.08741,4.68719 -28.59186,37.02881 105.93051,-68.43299"
+             style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             transform="matrix(0.75907089,-0.63284607,0.57090073,0.84143355,0,0)"
+             sodipodi:linespacing="140%"
+             id="text7044"
+             y="352.71747"
+             x="44.633614"
+             style="font-size:47.22027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FatStack BB;-inkscape-font-specification:FatStack BB"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zombie Guts;-inkscape-font-specification:Zombie Guts"
+               y="352.71747"
+               x="44.633614"
+               id="tspan7046"
+               sodipodi:role="line">Craptcha</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:30.00000027"
+             id="rect7048"
+             width="174.36351"
+             height="281.75473"
+             x="211.93141"
+             y="49.73436" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0,1.0017082,-0.99829467,0,275.46916,1092.8221)"
+         id="g7158" />
+    </g>
+  </g>
+</svg>
